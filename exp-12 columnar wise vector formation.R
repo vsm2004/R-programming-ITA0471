@@ -1,0 +1,5 @@
+a<-c(3,5,2)
+b<-c(1,9,6)
+c<-c(11,8,9)
+mat<-matrix(c(a,b,c),nrow=3,ncol=3,byrow="False")
+print(mat)
